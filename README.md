@@ -1,5 +1,3 @@
-Certainly, here's the README rewritten using GitHub Flavored Markdown:
-
 ---
 
 # One-Click Ethereum Authentication
